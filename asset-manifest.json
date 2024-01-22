@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/sticky-notes/static/css/main.e3daaf0a.css",
+    "main.js": "/sticky-notes/static/js/main.b3e8c290.js",
+    "static/media/background.jpg": "/sticky-notes/static/media/background.ec4d3c50267fe4c07884.jpg",
+    "index.html": "/sticky-notes/index.html",
+    "main.e3daaf0a.css.map": "/sticky-notes/static/css/main.e3daaf0a.css.map",
+    "main.b3e8c290.js.map": "/sticky-notes/static/js/main.b3e8c290.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3daaf0a.css",
+    "static/js/main.b3e8c290.js"
+  ]
+}
